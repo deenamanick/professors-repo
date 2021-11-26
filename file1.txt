@@ -1,0 +1,18 @@
+This is my first file [D[D[D[D[Dtest file for using github
+Procedure for creating pull reguest in git
+1. create repo cd /d[D[D[D[D[D
+mkdir repo
+cd /d/repo
+git init
+touch file1.txt file2.txt
+git status
+git add .
+cat >> file1.txt
+control c [D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dpress control c key to save the file
+then check git status
+git commit -m " I have added the contentin file1.txt"
+git log
+git push
+create pull request
+Review and approve pull request
+Merge the feature branch with main branch
